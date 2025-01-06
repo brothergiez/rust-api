@@ -4,6 +4,7 @@ mod utils;
 mod routes;
 mod configs;
 mod handlers;
+mod schemas;
 
 
 #[get("/hello/{name}")]
